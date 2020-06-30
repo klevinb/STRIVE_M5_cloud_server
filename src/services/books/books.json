@@ -1,0 +1,72 @@
+[
+    {
+        "asin": "1940026091",
+        "title": "Pandemic (The Extinction Files, Book 1)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91xrEMcvmQL.jpg",
+        "price": 7.81,
+        "category": "scifi"
+    },
+    {
+        "asin": "0425264041",
+        "title": "Shards of Hope (Psy-Changeling Novel, A)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91ku%2B0LppPL.jpg",
+        "price": 7.59,
+        "category": "scifi"
+    },
+    {
+        "asin": "1250082757",
+        "title": "Born of Vengeance: The League: Nemesis Rising",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91J28bj3PYL.jpg",
+        "price": 26.09,
+        "category": "scifi"
+    },
+    {
+        "asin": "045146799X",
+        "title": "Gameboard of the Gods",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81-vppSolJL.jpg",
+        "price": 7.59,
+        "category": "scifi"
+    },
+    {
+        "asin": "1101987790",
+        "title": "Silver Silence (Psy-Changeling Trinity)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91eGxsWGH7L.jpg",
+        "price": 17.6,
+        "category": "scifi"
+    },
+    {
+        "asin": "0987575422",
+        "title": "The Battle of Evernight - Special Edition: The Bitterbynde Book #3 (The Bitterbynde Trilogy)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51vw%2Bn7xZCL.jpg",
+        "price": 9.6,
+        "category": "scifi"
+    },
+    {
+        "asin": "1492667137",
+        "title": "Nightchaser",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/514%2BSppz8AL.jpg",
+        "price": 4.84,
+        "category": "scifi"
+    },
+    {
+        "asin": "1635551226",
+        "title": "Proxima Five",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61pDS5vOIdL.jpg",
+        "price": 16.34,
+        "category": "scifi"
+    },
+    {
+        "asin": "1773840509",
+        "title": "The Cyborg's Stowaway: In the Stars Romance (Gypsy Moth)",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51mV63NrjdL.jpg",
+        "price": 3.73,
+        "category": "scifi"
+    },
+    {
+        "asin": "1732587035",
+        "title": "Apparent Power: Diazem Trilogy, Book One",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61Q5NcIAeaL.jpg",
+        "price": 8.65,
+        "category": "scifi"
+    }
+]
