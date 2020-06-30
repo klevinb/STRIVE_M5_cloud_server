@@ -1,0 +1,39 @@
+[
+    {
+        "bookID": "1732587035",
+        "comment": "wow"
+    },
+    {
+        "bookID": "1732587035",
+        "comment": "wow"
+    },
+    {
+        "bookID": "1732587035",
+        "comment": "wow"
+    },
+    {
+        "bookID": "1732587035",
+        "comment": "wow"
+    },
+    {
+        "commentID": "au6aa9gkc1xcbt5",
+        "bookID": "1732587035",
+        "username": "Klevin",
+        "text": "dsadasd",
+        "date": "2020-06-30T12:45:38.632Z"
+    },
+    {
+        "commentID": "au6a94skc1xcw4d",
+        "bookID": "1732587035",
+        "username": "Klevin",
+        "text": "dsdsadasa",
+        "date": "2020-06-30T12:46:04.956Z"
+    },
+    {
+        "commentID": "au6aa4kc1xebbp",
+        "bookID": "1732587035",
+        "username": "Klevin",
+        "text": "dsasasa",
+        "date": "2020-06-30T12:47:11.316Z"
+    }
+]
